@@ -1,0 +1,2 @@
+NLP/* filter=lfs diff=lfs merge=lfs -text
+CV/* filter=lfs diff=lfs merge=lfs -text
